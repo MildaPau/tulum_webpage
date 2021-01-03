@@ -27,6 +27,10 @@
                     padding: 20px;
                     text-decoration: none;
             }
+            .section-two > nav > a:hover{
+                color: #347474;
+                text-decoration: underline #9C7764 2px;
+            }
 
             .form-row{
                 display: inline-block;
