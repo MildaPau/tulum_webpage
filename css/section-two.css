@@ -1,0 +1,35 @@
+.section-two{
+            background-color: cornsilk;
+            width: 100%;
+            display: inline-block;
+        }
+            .logo {
+                display: inline-block;
+                width: 15%;
+                background-color: red;
+                float: left;
+            }
+            nav{
+                display: inline-block;
+                width: 30%;
+                background-color: red;
+                float: left;
+            }
+            .section-two > a{
+                    display: inline-block;
+                    width: 15%;
+                    background-color: red;
+                    float: left;
+                }
+
+            .form-row{
+                display: inline-block;
+                background-color: red;
+                float: left;
+            }
+            .basket {
+                display: inline-block;
+                width: 3%;
+                float: right;
+                background-color: blue; 
+            }

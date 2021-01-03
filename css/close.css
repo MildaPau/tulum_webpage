@@ -1,0 +1,6 @@
+.close{
+    background-color: red;
+    width: 3%;
+    display: inline-block;
+    float: right; 
+}

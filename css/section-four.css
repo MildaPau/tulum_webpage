@@ -1,0 +1,38 @@
+.section-four{
+    background-color: blueviolet;
+    width: 100%;
+    display: inline-block;
+}
+    .left{
+        display: inline-block;
+        width: 15%;
+        float: left;
+        background-color: green;
+    }
+        h1{}
+        
+    .right{
+        display: inline-block;
+        width: 80%;
+        float: left;
+    }
+         /* 1 st */
+        .first-column{
+            display: inline-block;
+            width: 28%;
+            float: left;
+            margin-left: 25px;
+            background-color: red;}
+                img{}
+                p{}
+                a{}
+         /* 2 st */
+        .second-column{}
+            img{}
+            p{}
+            a{}
+        /* 3 st */
+        .third-column{}
+            img{}
+            p{}
+            a{}

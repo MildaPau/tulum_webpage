@@ -1,0 +1,23 @@
+.section-three{
+    background-color: brown;
+    width: 100%;
+    display: inline-block;
+}
+    .left-side{
+        background-color: coral;
+        display: inline-block;
+        width: 50%;
+        float: left;
+    }
+        img{}
+        img{}
+    .right-side{
+        background-color: yellow;
+        display: inline-block;
+        width: 50%;
+        float: left;
+    }
+        h5{}
+        h2{}
+        p{}
+        .btn{}

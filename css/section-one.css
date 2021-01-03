@@ -1,0 +1,23 @@
+.section-one{
+    background-color: blue;
+    width: 100%;
+    display: inline-block;
+}
+    main > .section-one > p{
+        width: 29%;
+        display: inline-block;
+        float: left; 
+        margin: 0;
+        margin-left: 310px;
+
+    }
+    main > .section-one > span{
+        width: 1%;
+        display: inline-block;
+        float: left;
+    }
+    main > .section-one > a{
+        width: 15%;
+        display: inline-block;
+        float: left;
+    }
