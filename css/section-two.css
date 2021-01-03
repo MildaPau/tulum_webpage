@@ -1,35 +1,57 @@
 .section-two{
-            background-color: cornsilk;
+            background-color: #EADBD6;
             width: 100%;
             display: inline-block;
         }
             .logo {
                 display: inline-block;
                 width: 15%;
-                background-color: red;
                 float: left;
+                margin: 40px;
+                margin-left: 80px;
+                margin-right: 80px;
             }
             nav{
                 display: inline-block;
-                width: 30%;
-                background-color: red;
+                width: 40%;
                 float: left;
+                margin-top: 25px;
+                margin-left: 50px;
             }
-            .section-two > a{
+            .section-two > nav > a {
                     display: inline-block;
-                    width: 15%;
-                    background-color: red;
                     float: left;
-                }
+                    color: #9C7764;
+                    line-height: 20px;
+                    font-size: 14px;
+                    padding: 20px;
+                    text-decoration: none;
+            }
 
             .form-row{
                 display: inline-block;
-                background-color: red;
                 float: left;
+                margin-top: 40px;
+                border: none;
             }
+
+                input{
+                    border: none;
+                    border-bottom: 2px solid #9C7764;
+                    background-color: #EADBD6;
+                    line-height: 20px;
+                }
+
+            input:focus{
+                outline: none;
+                background-color: none;
+            }
+            
             .basket {
                 display: inline-block;
                 width: 3%;
                 float: right;
-                background-color: blue; 
+                margin-top: 40px;
+                margin-right: 50px;
             }
+            

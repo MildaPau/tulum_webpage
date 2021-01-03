@@ -1,19 +1,9 @@
 body{}
     main{
-        background-color: aqua;
         width: 1000px;
         margin-left: calc((100% - 1000px) / 2);
         display: inline-block;
     }
-        /* section1 */
-       
-            
-        /* section2 */
-        
-        /* section3 */
-        
-        /* section4 */
-        
 
     
 
