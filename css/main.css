@@ -1,0 +1,84 @@
+body{}
+    main{
+        background-color: aqua;
+        width: 1000px;
+        margin-left: calc((100% - 1000px) / 2);
+        display: inline-block;
+    }
+        /* section1 */
+        .section-one{
+            background-color: blue;
+            width: 100%;
+            display: inline-block;
+        }
+            main > .section-one > p{
+                width: 29%;
+                display: inline-block;
+                float: left; 
+                margin: 0;
+                margin-left: 310px;
+            }
+            main > .section-one > span{
+                width: 1%;
+                display: inline-block;
+                float: left;
+            }
+            main > .section-one > a{
+                width: 15%;
+                display: inline-block;
+                float: left;
+            }
+            .close{
+                background-color: red;
+                width: 3%;
+                display: inline-block;
+                float: right; 
+            }
+        /* section2 */
+        .section-two{
+            background-color: cornsilk;
+            width: 100%;
+            display: inline-block;
+        }
+            img{}
+            nav{}
+                a{}
+            .form-row{}
+            img{}
+        /* section3 */
+        .section-three{
+            background-color: brown;
+            width: 100%;
+            display: inline-block;
+        }
+            div{}
+                img{}
+                img{}
+            div{}
+                h5{}
+                h2{}
+                p{}
+                .btn{}
+        /* section4 */
+        .section-four{
+            background-color: blueviolet;
+            width: 100%;
+            display: inline-block;
+        }
+            /* 1 st */
+                img{}
+                p{}
+                a{}
+            /* 2 st */
+                img{}
+                p{}
+                a{}
+            /* 3 st */
+                img{}
+                p{}
+                a{}
+
+
+
+    
+
