@@ -1,0 +1,16 @@
+.btn{
+    display: inline-block;
+    text-transform: uppercase;
+    color: white;
+    background-color: #B78B82;
+    border: none;
+    font-size: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn:focus{
+    outline: none;
+    border: 3px solid white;
+}

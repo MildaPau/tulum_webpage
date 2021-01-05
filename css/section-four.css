@@ -1,38 +1,66 @@
 .section-four{
-    background-color: blueviolet;
+    background-color: #387276;
     width: 100%;
     display: inline-block;
 }
     .left{
         display: inline-block;
-        width: 15%;
+        width: 20%;
         float: left;
-        background-color: green;
     }
-        h1{}
+        h1{
+            display: inline-block;
+            writing-mode: vertical-rl;
+            transform: rotate(180deg);
+            text-align: center;
+            font-size: 110px;
+            text-transform: uppercase;
+            margin-top: 60px;
+            margin-left: 30px;
+            color: #99A6AE;
+}
+        }
         
     .right{
         display: inline-block;
-        width: 80%;
+        width: 70%;
         float: left;
     }
+    .section-four > .right > h2{
+            display: inline-block;
+            color: white;
+            text-align: center;
+            margin-top: 50px;
+        }
          /* 1 st */
         .first-column{
             display: inline-block;
             width: 28%;
             float: left;
             margin-left: 25px;
-            background-color: red;}
-                img{}
-                p{}
-                a{}
-         /* 2 st */
-        .second-column{}
-            img{}
-            p{}
-            a{}
-        /* 3 st */
-        .third-column{}
-            img{}
-            p{}
-            a{}
+            text-align: center; 
+            margin-top: 65px;
+        }
+            
+                img{
+                    display: inline-block;
+                    width: 100%;
+                    float: left;
+
+                 }
+                .section-four > .right > .first-column > p{
+                    display: inline-block;
+                    width: 100%;
+                    padding: 20px;
+                    padding-left: 52px;
+                    padding-right: 52px;
+                    color: white;
+                    text-transform: uppercase;
+                    font-size: 12px;
+
+                }
+
+                .section-four > .right > .first-column > .btn{
+                    margin-bottom: 20px;
+                }
+                
