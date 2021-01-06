@@ -16,7 +16,6 @@ Design: [React theme five](https://mildapau.github.io/tulum_webpage/#)
 
 ## Project features
 - Sematic HTML tags
-- multipage
 
 ## Authors
 [Milda](https://github.com/MildaPau)
